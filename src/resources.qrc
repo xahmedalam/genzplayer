@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/shortcuts_bg.png</file>
+    <file>img/logo_large.png</file>
+    <file>img/author_bg.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>img/logo.png</file>
+    <file>img/maximize.png</file>
+    <file>img/minimize.png</file>
+    <file>img/normal_screen.png</file>
+    <file>img/open_file.png</file>
+    <file>img/pause.png</file>
+    <file>img/play.png</file>
+    <file>img/repeat.png</file>
+    <file>img/restore.png</file>
+    <file>img/speaker_50%.png</file>
+    <file>img/speaker_100%.png</file>
+    <file>img/speaker_muted.png</file>
+    <file>img/volume_bg.png</file>
+    <file>img/volume_handle.png</file>
+    <file>img/author.png</file>
+    <file>img/backword.png</file>
+    <file>img/copy_hover.png</file>
+    <file>img/copy.png</file>
+    <file>img/cursor.png</file>
+    <file>img/exit.png</file>
+    <file>img/forword.png</file>
+    <file>img/full_screen.png</file>
+    <file>img/github_hover.png</file>
+    <file>img/github.png</file>
+    <file>img/keyboard.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,33 @@
+* {
+    font-family: 'Poppins';
+    letter-spacing: 0.6px;
+}
+
+#Shortcuts {
+    background: url(:/img/img/shortcuts_bg.png) no-repeat;
+}
+
+#headerWidget {
+    background-color: #333333;
+}
+
+#headerWidget {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#headingLabel {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#exitBtn {
+    border: 0;
+    border-radius: 10px;
+    background-color: #FF3C3C;
+}
+
+#exitBtn:hover {
+    background-color: #FF5757;
+}
