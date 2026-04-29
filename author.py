@@ -32,7 +32,7 @@ class Author(QDialog):
             lambda: clipboard.copy("m.ahmed.g.1982@gmail.com")
         )
         self.ui.githubBtn.clicked.connect(
-            lambda: QDesktopServices().openUrl(QUrl("https://github.com/mahmedalam"))
+            lambda: QDesktopServices().openUrl(QUrl("https://github.com/xahmedalam"))
         )
 
         self.ui.headerWidget.mouseMoveEvent = self.header_widget_mouse_move
